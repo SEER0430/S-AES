@@ -6,6 +6,9 @@
 ![9f249ec08872433ca63e783824581ccd_](https://github.com/user-attachments/assets/e90426c1-a6ac-4ef6-ad70-b1c773ff0328)
 
 3.2 第2关：交叉测试考虑到是"算法标准"，所有人在编写程序的时候需要使用相同算法流程和转换单元(替换盒、列混淆矩阵等)，以保证算法和程序在异构的系统或平台上都可以正常运行。设有A和B两组位同学(选择相同的密钥K)；则A、B组同学编写的程序对明文P进行加密得到相同的密文C；或者B组同学接收到A组程序加密的密文C，使用B组程序进行解密可得到与A相同的P。
+他组案例：
+![b9a66f154237b681c9ac5dfd2cbf15c](https://github.com/user-attachments/assets/6e0c814c-60c4-42ce-8170-fe535211bd81)
+我组项目效果：
 ![18e771b4e73c8679cc83bc6f6c1f2d4](https://github.com/user-attachments/assets/ade7c5ea-79b2-4458-8e1e-9c750197bc05)
 ![ce6c83e25521094b13d6318c551287e](https://github.com/user-attachments/assets/a57ce123-99fd-4dc4-b616-a63722cc1b8a)
 
